@@ -6,8 +6,6 @@ import bollinger_bands
 import rsi_sma
 
 
-api_key = 'kgcF15uxEQiQ6axBDxzUO2XZzUebzvAaDmzVI0JLoMNExwPmOralZ7iON7WZ56gR'
-secret_key = 'fHkz7A3ESW7ynD74OPnYDUvRxS70nTJZVzF9et5gIidoO5EpcrZNY0LNMFfxUJM4'
 client = Client(api_key, secret_key)
 
 
